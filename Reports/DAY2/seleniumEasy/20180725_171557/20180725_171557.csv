@@ -1,0 +1,44 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+seleniumEasy,Firefox 51.0,,2018-07-25 17:15:58,2018-07-25 17:19:40,3m - 41.773s,FAILED
+,,,,,,
+Test Cases/SeleniumEasy/AllExample/AlertsandModels,Firefox 51.0,,2018-07-25 17:15:58,2018-07-25 17:16:32,33.721s,FAILED
+openBrowser,Firefox 51.0,,2018-07-25 17:15:58,2018-07-25 17:16:29,30.360s,PASSED
+navigateToUrl,Firefox 51.0,,2018-07-25 17:16:29,2018-07-25 17:16:31,2.365s,PASSED
+click,Firefox 51.0,,2018-07-25 17:16:31,2018-07-25 17:16:31,0.194s,PASSED
+click,Firefox 51.0,,2018-07-25 17:16:31,2018-07-25 17:16:32,0.545s,FAILED
+,,,,,,
+Test Cases/SeleniumEasy/AllExample/DatePickers,Firefox 51.0,,2018-07-25 17:16:32,2018-07-25 17:17:04,31.691s,FAILED
+openBrowser,Firefox 51.0,,2018-07-25 17:16:32,2018-07-25 17:17:01,28.699s,PASSED
+navigateToUrl,Firefox 51.0,,2018-07-25 17:17:01,2018-07-25 17:17:03,2.168s,PASSED
+click,Firefox 51.0,,2018-07-25 17:17:03,2018-07-25 17:17:03,0.154s,PASSED
+click,Firefox 51.0,,2018-07-25 17:17:03,2018-07-25 17:17:04,0.551s,FAILED
+,,,,,,
+Test Cases/SeleniumEasy/AllExample/InputForms,Firefox 51.0,,2018-07-25 17:17:04,2018-07-25 17:17:35,31.461s,FAILED
+openBrowser,Firefox 51.0,,2018-07-25 17:17:04,2018-07-25 17:17:32,28.633s,PASSED
+navigateToUrl,Firefox 51.0,,2018-07-25 17:17:32,2018-07-25 17:17:34,1.984s,PASSED
+click,Firefox 51.0,,2018-07-25 17:17:34,2018-07-25 17:17:35,0.167s,PASSED
+click,Firefox 51.0,,2018-07-25 17:17:35,2018-07-25 17:17:35,0.519s,FAILED
+,,,,,,
+Test Cases/SeleniumEasy/AllExample/ListBox,Firefox 51.0,,2018-07-25 17:17:35,2018-07-25 17:18:06,31.096s,FAILED
+openBrowser,Firefox 51.0,,2018-07-25 17:17:35,2018-07-25 17:18:03,28.229s,PASSED
+navigateToUrl,Firefox 51.0,,2018-07-25 17:18:03,2018-07-25 17:18:05,2.017s,PASSED
+click,Firefox 51.0,,2018-07-25 17:18:05,2018-07-25 17:18:06,0.204s,PASSED
+click,Firefox 51.0,,2018-07-25 17:18:06,2018-07-25 17:18:06,0.532s,FAILED
+,,,,,,
+Test Cases/SeleniumEasy/AllExample/Others,Firefox 51.0,,2018-07-25 17:18:06,2018-07-25 17:18:37,30.974s,FAILED
+openBrowser,Firefox 51.0,,2018-07-25 17:18:06,2018-07-25 17:18:34,28.104s,PASSED
+navigateToUrl,Firefox 51.0,,2018-07-25 17:18:34,2018-07-25 17:18:36,2.062s,PASSED
+click,Firefox 51.0,,2018-07-25 17:18:36,2018-07-25 17:18:37,0.195s,PASSED
+click,Firefox 51.0,,2018-07-25 17:18:37,2018-07-25 17:18:37,0.501s,FAILED
+,,,,,,
+Test Cases/SeleniumEasy/AllExample/ProgressBarSliders,Firefox 51.0,,2018-07-25 17:18:37,2018-07-25 17:19:08,31.060s,FAILED
+openBrowser,Firefox 51.0,,2018-07-25 17:18:37,2018-07-25 17:19:05,28.167s,PASSED
+navigateToUrl,Firefox 51.0,,2018-07-25 17:19:05,2018-07-25 17:19:08,2.082s,PASSED
+click,Firefox 51.0,,2018-07-25 17:19:08,2018-07-25 17:19:08,0.167s,PASSED
+click,Firefox 51.0,,2018-07-25 17:19:08,2018-07-25 17:19:08,0.521s,FAILED
+,,,,,,
+Test Cases/SeleniumEasy/AllExample/Table,Firefox 51.0,,2018-07-25 17:19:08,2018-07-25 17:19:39,31.245s,FAILED
+openBrowser,Firefox 51.0,,2018-07-25 17:19:08,2018-07-25 17:19:37,28.234s,PASSED
+navigateToUrl,Firefox 51.0,,2018-07-25 17:19:37,2018-07-25 17:19:39,2.167s,PASSED
+click,Firefox 51.0,,2018-07-25 17:19:39,2018-07-25 17:19:39,0.155s,PASSED
+click,Firefox 51.0,,2018-07-25 17:19:39,2018-07-25 17:19:39,0.547s,FAILED

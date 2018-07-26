@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="seleniumEasy" time="221" tests="0" failures="7" errors="0">
+   <testsuite name="seleniumEasy" tests="0" failures="7" errors="0" time="221" timestamp="2018-07-25 17:15:58" hostname="slk - WSLK1FFTRFW-18" id="Test Suites/DAY2/seleniumEasy">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\slk.WSLK1FFTRFW-18.004\\Katalon Studio\\Demo_SLKM\\Reports\\DAY2\\seleniumEasy\\20180725_171557"/>
+         <property name="logFiles" value="C:\\Users\\slk.WSLK1FFTRFW-18.004\\Katalon Studio\\Demo_SLKM\\Reports\\DAY2\\seleniumEasy\\20180725_171557\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\slk.WSLK1FFTRFW-18.004\\Katalon Studio\\Demo_SLKM\\Reports\\DAY2\\seleniumEasy\\20180725_171557\\1532519191898.png, C:\\Users\\slk.WSLK1FFTRFW-18.004\\Katalon Studio\\Demo_SLKM\\Reports\\DAY2\\seleniumEasy\\20180725_171557\\1532519223588.png, C:\\Users\\slk.WSLK1FFTRFW-18.004\\Katalon Studio\\Demo_SLKM\\Reports\\DAY2\\seleniumEasy\\20180725_171557\\1532519255062.png, C:\\Users\\slk.WSLK1FFTRFW-18.004\\Katalon Studio\\Demo_SLKM\\Reports\\DAY2\\seleniumEasy\\20180725_171557\\1532519286149.png, C:\\Users\\slk.WSLK1FFTRFW-18.004\\Katalon Studio\\Demo_SLKM\\Reports\\DAY2\\seleniumEasy\\20180725_171557\\1532519317155.png, C:\\Users\\slk.WSLK1FFTRFW-18.004\\Katalon Studio\\Demo_SLKM\\Reports\\DAY2\\seleniumEasy\\20180725_171557\\1532519348204.png, C:\\Users\\slk.WSLK1FFTRFW-18.004\\Katalon Studio\\Demo_SLKM\\Reports\\DAY2\\seleniumEasy\\20180725_171557\\1532519379424.png"/>
+         <property name="hostName" value="slk - WSLK1FFTRFW-18"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.5.0.1"/>
+         <property name="browser" value="Firefox 51.0"/>
+         <property name="hostAddress" value="10.10.10.27"/>
+         <property name="sessionId" value="1adfcf5e-1ea2-426a-9dcf-0ec5837b813e"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 7"/>
+      </properties>
+      <testcase name="Test Cases/SeleniumEasy/AllExample/AlertsandModels" classname="Test Cases/SeleniumEasy/AllExample/AlertsandModels" status="FAILED">
+         <failure type="FAILED" message="Unable to click on object 'Object Repository/Alertsand mopdels/Page_Selenium Easy - Best Demo webs/a_Bootstrap Alerts' (Root cause: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 0 milliseconds)"/>
+         <system-out><![CDATA[2018-07-25 17:15:58 - [TEST_CASE][FAILED] - Test Cases/SeleniumEasy/AllExample/AlertsandModels: Test Cases/SeleniumEasy/AllExample/AlertsandModels FAILED because (of) Unable to click on object 'Object Repository/Alertsand mopdels/Page_Selenium Easy - Best Demo webs/a_Bootstrap Alerts' (Root cause: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 0 milliseconds)
+
+2018-07-25 17:15:58 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-25 17:16:29 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-25 17:16:29 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://www.seleniumeasy.com/test/' successfully
+
+2018-07-25 17:16:31 - [MESSAGE][PASSED] - Navigate to 'http://www.seleniumeasy.com/test/' successfully
+
+2018-07-25 17:16:31 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Alertsand mopdels/Page_Selenium Easy - Best Demo webs/a_Alerts  Modals' is clicked on
+
+2018-07-25 17:16:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Alertsand mopdels/Page_Selenium Easy - Best Demo webs/a_Alerts  Modals' is clicked on
+
+2018-07-25 17:16:31 - [TEST_STEP][FAILED] - click: Unable to click on object 'Object Repository/Alertsand mopdels/Page_Selenium Easy - Best Demo webs/a_Bootstrap Alerts' (Root cause: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 0 milliseconds)
+
+2018-07-25 17:16:32 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Alertsand mopdels/Page_Selenium Easy - Best Demo webs/a_Bootstrap Alerts' (Root cause: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 0 milliseconds)
+[[ATTACHMENT|C:\\Users\\slk.WSLK1FFTRFW-18.004\\Katalon Studio\\Demo_SLKM\\Reports\\DAY2\\seleniumEasy\\20180725_171557\\1532519191898.png]]]]></system-out>
+         <system-err><![CDATA[2018-07-25 17:15:58 - [TEST_CASE][FAILED] - Test Cases/SeleniumEasy/AllExample/AlertsandModels: Test Cases/SeleniumEasy/AllExample/AlertsandModels FAILED because (of) Unable to click on object 'Object Repository/Alertsand mopdels/Page_Selenium Easy - Best Demo webs/a_Bootstrap Alerts' (Root cause: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 0 milliseconds)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SeleniumEasy/AllExample/DatePickers" classname="Test Cases/SeleniumEasy/AllExample/DatePickers" status="FAILED">
+         <failure type="FAILED" message="Unable to click on object 'Object Repository/Datepickers/Page_Selenium Easy - Best Demo webs/a_Bootstrap Date Picker' (Root cause: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 0 milliseconds)"/>
+         <system-out><![CDATA[2018-07-25 17:16:32 - [TEST_CASE][FAILED] - Test Cases/SeleniumEasy/AllExample/DatePickers: Test Cases/SeleniumEasy/AllExample/DatePickers FAILED because (of) Unable to click on object 'Object Repository/Datepickers/Page_Selenium Easy - Best Demo webs/a_Bootstrap Date Picker' (Root cause: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 0 milliseconds)
+
+2018-07-25 17:16:32 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-25 17:16:32 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-07-25 17:17:01 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-25 17:17:01 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://www.seleniumeasy.com/test/' successfully
+
+2018-07-25 17:17:03 - [MESSAGE][PASSED] - Navigate to 'http://www.seleniumeasy.com/test/' successfully
+
+2018-07-25 17:17:03 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Datepickers/Page_Selenium Easy - Best Demo webs/i_tree-indicator glyphicon gly' is clicked on
+
+2018-07-25 17:17:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Datepickers/Page_Selenium Easy - Best Demo webs/i_tree-indicator glyphicon gly' is clicked on
+
+2018-07-25 17:17:03 - [TEST_STEP][FAILED] - click: Unable to click on object 'Object Repository/Datepickers/Page_Selenium Easy - Best Demo webs/a_Bootstrap Date Picker' (Root cause: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 0 milliseconds)
+
+2018-07-25 17:17:04 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Datepickers/Page_Selenium Easy - Best Demo webs/a_Bootstrap Date Picker' (Root cause: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 0 milliseconds)
+[[ATTACHMENT|C:\\Users\\slk.WSLK1FFTRFW-18.004\\Katalon Studio\\Demo_SLKM\\Reports\\DAY2\\seleniumEasy\\20180725_171557\\1532519223588.png]]]]></system-out>
+         <system-err><![CDATA[2018-07-25 17:16:32 - [TEST_CASE][FAILED] - Test Cases/SeleniumEasy/AllExample/DatePickers: Test Cases/SeleniumEasy/AllExample/DatePickers FAILED because (of) Unable to click on object 'Object Repository/Datepickers/Page_Selenium Easy - Best Demo webs/a_Bootstrap Date Picker' (Root cause: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 0 milliseconds)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SeleniumEasy/AllExample/InputForms" classname="Test Cases/SeleniumEasy/AllExample/InputForms" status="FAILED">
+         <failure type="FAILED" message="Unable to click on object 'Object Repository/SeleniumEasy/Page_Selenium Easy - Best Demo webs/a_Simple Form Demo' (Root cause: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 0 milliseconds)"/>
+         <system-out><![CDATA[2018-07-25 17:17:04 - [TEST_CASE][FAILED] - Test Cases/SeleniumEasy/AllExample/InputForms: Test Cases/SeleniumEasy/AllExample/InputForms FAILED because (of) Unable to click on object 'Object Repository/SeleniumEasy/Page_Selenium Easy - Best Demo webs/a_Simple Form Demo' (Root cause: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 0 milliseconds)
+
+2018-07-25 17:17:04 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-25 17:17:04 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-07-25 17:17:32 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-25 17:17:32 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://www.seleniumeasy.com/test/' successfully
+
+2018-07-25 17:17:34 - [MESSAGE][PASSED] - Navigate to 'http://www.seleniumeasy.com/test/' successfully
+
+2018-07-25 17:17:34 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/SeleniumEasy/Page_Selenium Easy - Best Demo webs/i_tree-indicator glyphicon gly' is clicked on
+
+2018-07-25 17:17:35 - [MESSAGE][PASSED] - Object: 'Object Repository/SeleniumEasy/Page_Selenium Easy - Best Demo webs/i_tree-indicator glyphicon gly' is clicked on
+
+2018-07-25 17:17:35 - [TEST_STEP][FAILED] - click: Unable to click on object 'Object Repository/SeleniumEasy/Page_Selenium Easy - Best Demo webs/a_Simple Form Demo' (Root cause: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 0 milliseconds)
+
+2018-07-25 17:17:35 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/SeleniumEasy/Page_Selenium Easy - Best Demo webs/a_Simple Form Demo' (Root cause: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 0 milliseconds)
+[[ATTACHMENT|C:\\Users\\slk.WSLK1FFTRFW-18.004\\Katalon Studio\\Demo_SLKM\\Reports\\DAY2\\seleniumEasy\\20180725_171557\\1532519255062.png]]]]></system-out>
+         <system-err><![CDATA[2018-07-25 17:17:04 - [TEST_CASE][FAILED] - Test Cases/SeleniumEasy/AllExample/InputForms: Test Cases/SeleniumEasy/AllExample/InputForms FAILED because (of) Unable to click on object 'Object Repository/SeleniumEasy/Page_Selenium Easy - Best Demo webs/a_Simple Form Demo' (Root cause: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 0 milliseconds)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SeleniumEasy/AllExample/ListBox" classname="Test Cases/SeleniumEasy/AllExample/ListBox" status="FAILED">
+         <failure type="FAILED" message="Unable to click on object 'Object Repository/ListBoxs/Page_Selenium Easy - Best Demo webs/a_Bootstrap List Box' (Root cause: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 0 milliseconds)"/>
+         <system-out><![CDATA[2018-07-25 17:17:35 - [TEST_CASE][FAILED] - Test Cases/SeleniumEasy/AllExample/ListBox: Test Cases/SeleniumEasy/AllExample/ListBox FAILED because (of) Unable to click on object 'Object Repository/ListBoxs/Page_Selenium Easy - Best Demo webs/a_Bootstrap List Box' (Root cause: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 0 milliseconds)
+
+2018-07-25 17:17:35 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-25 17:17:35 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-07-25 17:18:03 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-25 17:18:03 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://www.seleniumeasy.com/test/' successfully
+
+2018-07-25 17:18:05 - [MESSAGE][PASSED] - Navigate to 'http://www.seleniumeasy.com/test/' successfully
+
+2018-07-25 17:18:05 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ListBoxs/Page_Selenium Easy - Best Demo webs/i_tree-indicator glyphicon gly' is clicked on
+
+2018-07-25 17:18:06 - [MESSAGE][PASSED] - Object: 'Object Repository/ListBoxs/Page_Selenium Easy - Best Demo webs/i_tree-indicator glyphicon gly' is clicked on
+
+2018-07-25 17:18:06 - [TEST_STEP][FAILED] - click: Unable to click on object 'Object Repository/ListBoxs/Page_Selenium Easy - Best Demo webs/a_Bootstrap List Box' (Root cause: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 0 milliseconds)
+
+2018-07-25 17:18:06 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/ListBoxs/Page_Selenium Easy - Best Demo webs/a_Bootstrap List Box' (Root cause: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 0 milliseconds)
+[[ATTACHMENT|C:\\Users\\slk.WSLK1FFTRFW-18.004\\Katalon Studio\\Demo_SLKM\\Reports\\DAY2\\seleniumEasy\\20180725_171557\\1532519286149.png]]]]></system-out>
+         <system-err><![CDATA[2018-07-25 17:17:35 - [TEST_CASE][FAILED] - Test Cases/SeleniumEasy/AllExample/ListBox: Test Cases/SeleniumEasy/AllExample/ListBox FAILED because (of) Unable to click on object 'Object Repository/ListBoxs/Page_Selenium Easy - Best Demo webs/a_Bootstrap List Box' (Root cause: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 0 milliseconds)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SeleniumEasy/AllExample/Others" classname="Test Cases/SeleniumEasy/AllExample/Others" status="FAILED">
+         <failure type="FAILED" message="Unable to click on object 'Object Repository/Others/Page_Selenium Easy - Best Demo webs/a_Drag and Drop' (Root cause: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 0 milliseconds)"/>
+         <system-out><![CDATA[2018-07-25 17:18:06 - [TEST_CASE][FAILED] - Test Cases/SeleniumEasy/AllExample/Others: Test Cases/SeleniumEasy/AllExample/Others FAILED because (of) Unable to click on object 'Object Repository/Others/Page_Selenium Easy - Best Demo webs/a_Drag and Drop' (Root cause: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 0 milliseconds)
+
+2018-07-25 17:18:06 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-25 17:18:06 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-07-25 17:18:34 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-25 17:18:34 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://www.seleniumeasy.com/test/' successfully
+
+2018-07-25 17:18:36 - [MESSAGE][PASSED] - Navigate to 'http://www.seleniumeasy.com/test/' successfully
+
+2018-07-25 17:18:36 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Others/Page_Selenium Easy - Best Demo webs/li_Others' is clicked on
+
+2018-07-25 17:18:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Others/Page_Selenium Easy - Best Demo webs/li_Others' is clicked on
+
+2018-07-25 17:18:37 - [TEST_STEP][FAILED] - click: Unable to click on object 'Object Repository/Others/Page_Selenium Easy - Best Demo webs/a_Drag and Drop' (Root cause: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 0 milliseconds)
+
+2018-07-25 17:18:37 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Others/Page_Selenium Easy - Best Demo webs/a_Drag and Drop' (Root cause: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 0 milliseconds)
+[[ATTACHMENT|C:\\Users\\slk.WSLK1FFTRFW-18.004\\Katalon Studio\\Demo_SLKM\\Reports\\DAY2\\seleniumEasy\\20180725_171557\\1532519317155.png]]]]></system-out>
+         <system-err><![CDATA[2018-07-25 17:18:06 - [TEST_CASE][FAILED] - Test Cases/SeleniumEasy/AllExample/Others: Test Cases/SeleniumEasy/AllExample/Others FAILED because (of) Unable to click on object 'Object Repository/Others/Page_Selenium Easy - Best Demo webs/a_Drag and Drop' (Root cause: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 0 milliseconds)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SeleniumEasy/AllExample/ProgressBarSliders" classname="Test Cases/SeleniumEasy/AllExample/ProgressBarSliders" status="FAILED">
+         <failure type="FAILED" message="Unable to click on object 'Object Repository/ProgressBarsliders/Page_Selenium Easy - Best Demo webs/a_JQuery Download Progress bar' (Root cause: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 0 milliseconds)"/>
+         <system-out><![CDATA[2018-07-25 17:18:37 - [TEST_CASE][FAILED] - Test Cases/SeleniumEasy/AllExample/ProgressBarSliders: Test Cases/SeleniumEasy/AllExample/ProgressBarSliders FAILED because (of) Unable to click on object 'Object Repository/ProgressBarsliders/Page_Selenium Easy - Best Demo webs/a_JQuery Download Progress bar' (Root cause: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 0 milliseconds)
+
+2018-07-25 17:18:37 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-25 17:18:37 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-07-25 17:19:05 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-25 17:19:05 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://www.seleniumeasy.com/test/' successfully
+
+2018-07-25 17:19:07 - [MESSAGE][PASSED] - Navigate to 'http://www.seleniumeasy.com/test/' successfully
+
+2018-07-25 17:19:08 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ProgressBarsliders/Page_Selenium Easy - Best Demo webs/i_tree-indicator glyphicon gly' is clicked on
+
+2018-07-25 17:19:08 - [MESSAGE][PASSED] - Object: 'Object Repository/ProgressBarsliders/Page_Selenium Easy - Best Demo webs/i_tree-indicator glyphicon gly' is clicked on
+
+2018-07-25 17:19:08 - [TEST_STEP][FAILED] - click: Unable to click on object 'Object Repository/ProgressBarsliders/Page_Selenium Easy - Best Demo webs/a_JQuery Download Progress bar' (Root cause: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 0 milliseconds)
+
+2018-07-25 17:19:08 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/ProgressBarsliders/Page_Selenium Easy - Best Demo webs/a_JQuery Download Progress bar' (Root cause: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 0 milliseconds)
+[[ATTACHMENT|C:\\Users\\slk.WSLK1FFTRFW-18.004\\Katalon Studio\\Demo_SLKM\\Reports\\DAY2\\seleniumEasy\\20180725_171557\\1532519348204.png]]]]></system-out>
+         <system-err><![CDATA[2018-07-25 17:18:37 - [TEST_CASE][FAILED] - Test Cases/SeleniumEasy/AllExample/ProgressBarSliders: Test Cases/SeleniumEasy/AllExample/ProgressBarSliders FAILED because (of) Unable to click on object 'Object Repository/ProgressBarsliders/Page_Selenium Easy - Best Demo webs/a_JQuery Download Progress bar' (Root cause: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 0 milliseconds)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SeleniumEasy/AllExample/Table" classname="Test Cases/SeleniumEasy/AllExample/Table" status="FAILED">
+         <failure type="FAILED" message="Unable to click on object 'Object Repository/Table/Page_Selenium Easy - Best Demo webs/a_Table Pagination' (Root cause: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 0 milliseconds)"/>
+         <system-out><![CDATA[2018-07-25 17:19:08 - [TEST_CASE][FAILED] - Test Cases/SeleniumEasy/AllExample/Table: Test Cases/SeleniumEasy/AllExample/Table FAILED because (of) Unable to click on object 'Object Repository/Table/Page_Selenium Easy - Best Demo webs/a_Table Pagination' (Root cause: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 0 milliseconds)
+
+2018-07-25 17:19:08 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-25 17:19:08 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-07-25 17:19:37 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-25 17:19:37 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://www.seleniumeasy.com/test/' successfully
+
+2018-07-25 17:19:39 - [MESSAGE][PASSED] - Navigate to 'http://www.seleniumeasy.com/test/' successfully
+
+2018-07-25 17:19:39 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Table/Page_Selenium Easy - Best Demo webs/i_tree-indicator glyphicon gly' is clicked on
+
+2018-07-25 17:19:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Table/Page_Selenium Easy - Best Demo webs/i_tree-indicator glyphicon gly' is clicked on
+
+2018-07-25 17:19:39 - [TEST_STEP][FAILED] - click: Unable to click on object 'Object Repository/Table/Page_Selenium Easy - Best Demo webs/a_Table Pagination' (Root cause: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 0 milliseconds)
+
+2018-07-25 17:19:39 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Table/Page_Selenium Easy - Best Demo webs/a_Table Pagination' (Root cause: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 0 milliseconds)
+[[ATTACHMENT|C:\\Users\\slk.WSLK1FFTRFW-18.004\\Katalon Studio\\Demo_SLKM\\Reports\\DAY2\\seleniumEasy\\20180725_171557\\1532519379424.png]]]]></system-out>
+         <system-err><![CDATA[2018-07-25 17:19:08 - [TEST_CASE][FAILED] - Test Cases/SeleniumEasy/AllExample/Table: Test Cases/SeleniumEasy/AllExample/Table FAILED because (of) Unable to click on object 'Object Repository/Table/Page_Selenium Easy - Best Demo webs/a_Table Pagination' (Root cause: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 0 milliseconds)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-07-25 17:15:58 - [TEST_SUITE][FAILED] - seleniumEasy: Test Cases/SeleniumEasy/AllExample/AlertsandModels FAILED because (of) Unable to click on object 'Object Repository/Alertsand mopdels/Page_Selenium Easy - Best Demo webs/a_Bootstrap Alerts' (Root cause: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 0 milliseconds)]]></system-out>
+      <system-err><![CDATA[2018-07-25 17:15:58 - [TEST_SUITE][FAILED] - seleniumEasy: Test Cases/SeleniumEasy/AllExample/AlertsandModels FAILED because (of) Unable to click on object 'Object Repository/Alertsand mopdels/Page_Selenium Easy - Best Demo webs/a_Bootstrap Alerts' (Root cause: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 0 milliseconds)]]></system-err>
+   </testsuite>
+</testsuites>
